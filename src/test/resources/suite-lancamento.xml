@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suíte-Tests método buscaAjax da Classe LancamentoService">
+<test name="Test">
+    <classes>
+        <class name="br.ucdb.pos.engenhariasoftware.testesoftware.service.LancamentoServiceTest"></class>
+    </classes>
+</test>
+</suite>
